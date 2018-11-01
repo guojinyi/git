@@ -1,1 +1,1 @@
-今天开始学习如何使用git
+begin to learning how to user git
